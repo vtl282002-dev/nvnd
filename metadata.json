@@ -1,0 +1,10 @@
+{
+  "name": "Remix Remix Nhiệm Vụ Nhảy Dù Của Paulo",
+  "description": "Cùng Paulo khám phá Brazil, tìm hiểu kỹ thuật hàng không vũ trụ và thiết kế chiếc dù giúp quả capuaçu tiếp đất an toàn!",
+  "requestFramePermissions": [
+    "camera"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
